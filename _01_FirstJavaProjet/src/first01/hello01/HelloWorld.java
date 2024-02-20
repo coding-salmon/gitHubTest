@@ -4,6 +4,7 @@ public class HelloWorld {
 	private void mian() {
 		System.out.println("헬로우월드");
 		System.out.println("헬로우자바");
+		System.out.println("헬로우에브리원");
 	}
 
 }
